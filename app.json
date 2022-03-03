@@ -13,10 +13,6 @@
     "repository": "https://github.com/sbatrow/DarkV2ray-Manager-Bot",
     "success_url": "https://t.me/RXT_CHANNEL",
     "env": {
-        "ADMINS": {
-            "description": "Your Telegram ID use @my_id_bot",
-            "value": "",
-            "required": true
         },
         "CHROMEDRIVER_PATH": {
             "description": "crome path",
