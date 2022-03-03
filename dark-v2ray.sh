@@ -404,9 +404,9 @@ show_menu() {
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
     echo -e "\E[44;1;37m               ♻️ DARKV2RAY MANAGER ♻️              \E[0m"
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-    echo -e "\033[0;34m  #BY:      🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥       \033[0m"
+    echo -e "\033[0;34m  #BY:      🔥⚡️⚡️ RXT VPN 🇱🇰 ⚡️⚡️🔥       \033[0m"
     echo -e "\033[0;34m                     SRI LANKA                    \033[0m"
-    echo -e "\033[0;34m                Telegram- @sibatrow               \033[0m"
+    echo -e "\033[0;34m                Telegram- @RXT_CHANNEL             \033[0m"
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
     show_status
     echo -e "
